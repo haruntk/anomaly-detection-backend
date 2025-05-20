@@ -1,0 +1,27 @@
+# Anomaly Detection Backend Gereksinimleri
+
+# Temel Gereksinimler
+flask==2.3.3
+flask-cors==4.0.0
+werkzeug==2.3.7
+
+# Görüntü İşleme
+opencv-python==4.8.1.78
+pillow==10.2.0
+
+# Veri İşleme
+numpy==1.26.4
+scikit-learn==1.4.0
+
+# Derin Öğrenme
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+
+# Görselleştirme
+matplotlib==3.8.3
+scipy==1.12.0
+scikit-image==0.22.0
+
+# Dosya İşlemleri
+filelock==3.18.0 
