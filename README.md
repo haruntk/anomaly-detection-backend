@@ -15,7 +15,9 @@ Bu repoda farklı anomaly detection modelleriyle yapılmış deneyler, eğitim v
 Projeyi klonladıktan sonra aşağıdaki adımları izleyerek gerekli paketleri kurabilirsiniz:
 
 cd anomaly-detection-backend
+
 pip install -r requirements.txt
+
 requirements.txt dosyasında ihtiyaç duyulan tüm Python kütüphaneleri listelenmiştir.
 
 ## 🧪 Kullanılan Modeller
