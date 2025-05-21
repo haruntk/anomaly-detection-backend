@@ -40,26 +40,11 @@ Görüntü işleme görevlerinde güçlü genel performans
 Proje, MvTec AD veri seti ile uyumludur.
 
 ## ⚙️ Kullanım
-Örnek bir model çalıştırmak için aşağıdaki adımları takip edin:
+Örnek bir modeli kullanmak için aşağıdaki adımları takip edin:
 
-bash
-Kopyala
-Düzenle
-python train.py --model padim --dataset mvtec --category bottle
-veya test için:
+python app.py
 
-bash
-Kopyala
-Düzenle
-python test.py --model efficientad --dataset visa --category cable
-train.py ve test.py scriptleri proje kök dizininde yer almaktadır.
+Daha sonra server'a istek atabilirsiniz.
 
 📊 Sonuçlar
-Her model için eğitim ve test sonuçları, görselleştirmelerle birlikte results/ klasöründe tutulur. ROC-AUC, PRO ve F1 gibi metriklerle değerlendirme yapılmıştır.## Renk Referansı
-
-| Renk             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| örnek renk | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| örnek renk | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| örnek renk | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| örnek renk | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 | 
+Her model için eğitim ve test sonuçları, görselleştirmelerle birlikte colab üzerindedir. Hanüz repoya dahil edilmemiştir.
