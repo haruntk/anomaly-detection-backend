@@ -20,6 +20,12 @@ pip install -r requirements.txt
 
 requirements.txt dosyasında ihtiyaç duyulan tüm Python kütüphaneleri listelenmiştir.
 
+## ÖNEMLİ NOT
+
+Projede weights dosyaları çok büyük olduğundan Git LFS kullanılmıştır. Clone sorunları yaşarsanız aşağıdaki linkten weights'leri indirip weights klasörüne kopyaladıktan sonra projeyi çalıştırınız
+
+Drive Link: https://drive.google.com/drive/folders/1lvx93PKeH7oBrh6ATouxjK_D54cgHERK?usp=sharing
+
 ## 🧪 Kullanılan Modeller
 
 🔹 PaDiM
