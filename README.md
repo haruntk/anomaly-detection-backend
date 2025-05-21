@@ -14,7 +14,6 @@ Bu repoda farklı anomaly detection modelleriyle yapılmış deneyler, eğitim v
 
 Projeyi klonladıktan sonra aşağıdaki adımları izleyerek gerekli paketleri kurabilirsiniz:
 
-git clone https://github.com/kullanici-adin/https://github.com/haruntk/anomaly-detection-backend.git
 cd anomaly-detection-backend
 pip install -r requirements.txt
 requirements.txt dosyasında ihtiyaç duyulan tüm Python kütüphaneleri listelenmiştir.
